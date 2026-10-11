@@ -1,26 +1,30 @@
-
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3000&pause=1000&color=8C9EFF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Hell4uk;"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3000&pause=1000&color=8C9EFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello%2C+I'm+Hell4uk;%7B+while%28alive%29+build%28%29%3B+%7D"
     width="75%"
-    alt="Hello, I'm Hell4uk"
+    alt="Hello, I'm Hell4uk — while alive, build"
   />
 </div>
-
 <br/>
 
 <img src="./assets/photo.jpg" width="180" align="right" alt="Profile picture"/>
 
-<pre>
-  Name       Hell4uk
-  Role       Full-Stack Developer
-  Interests  Software · Backend · Systems · Frontend · B2b · AI/ML
-</pre>
+<div align="center">
+  <pre>
+    👋  Name       Hell4uk
+    💻  Role       Full-Stack Developer
+    ⚙️  Focus      Backend · Frontend · Systems
+    🧠  Interests  Software Architecture · AI/ML
+    🛠️  Stack      Rust · Go · TypeScript · Python
+    🌐  Exploring  Distributed Systems · DevOps
+    🚀  Goal       Building useful things
+  </pre>
+</div>
 
 <br clear="right"/>
 
 <div align="center">
-  <img src="./assets/c32c6daaa4d17c9b3b0f0d1eabe58f72.gif" width="800" alt="Animation"/>
+  <img src="./assets/c32c6daaa4d17c9b3b0f0d1eabe58f72.gif" width="600" alt="Animation"/>
 </div>
 
 <br/>
